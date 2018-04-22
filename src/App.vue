@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <origin-page></origin-page>
+    <navigation></navigation>
+
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import OriginPage from './components/OriginPage';
+import Navigation from './components/Navigation';
 
 export default {
   name: 'app',
   components: {
-    OriginPage
+      Navigation
   }
 }
 </script>
