@@ -18,10 +18,30 @@
                 <router-link to="/dojo" class="navbar-item">Dojo</router-link>
 
                 <router-link to="/road-map" class="navbar-item">Road Map</router-link>
-                <router-link to="/white-paper" class="navbar-item">About Us</router-link>
-                <router-link to="/faq" class="navbar-item">FAQ</router-link>
+                <router-link to="/white-paper" class="navbar-item">White Paper</router-link>
 
-                <router-link to="/about-us" class="navbar-item">About Us</router-link>
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link">
+                        About
+                    </a>
+                    <div class="navbar-dropdown">
+                        <router-link to="/how-to-play" class="navbar-item">
+                            HOW TO PLAY
+                        </router-link>
+                    <div class="navbar-dropdown">
+                        <router-link to="/origin-page" class="navbar-item">
+                            KITTY ORIGIN LORE
+                        </router-link>
+                    <div class="navbar-dropdown">
+                        <router-link to="/faq" class="navbar-item">
+                            KITTYBATTLES FAQS
+                        </router-link>
+                    <div class="navbar-dropdown">
+                        <router-link to="/about-us" class="navbar-item">
+                            THE KB TEAM
+                        </router-link>
+                    </div></div></div></div>
+                </div>
             </div>
         </div>
     </nav>
@@ -33,12 +53,11 @@
 
         data() {
             return {
-                mobile_menu : false
+                mobile_menu: false
             };
         }
     }
 </script>
 
 <style>
-
 </style>
