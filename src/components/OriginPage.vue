@@ -7,6 +7,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/MountainIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -26,9 +27,9 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="assets/himalayan%20mountain.svg" class="image.is-200x200" alt="Mountain Cat 1" >
+                    <img src="assets/himalayan%20mountain.svg" class="image is-200x200" alt="Mountain Cat 1" >
                     <img src="" class="image.is-200x200" alt="Mountain Cat 2" >
-                    <img src="assets/mainecoon%20mountains.svg" class="image.is-200x200" alt="Mountain Cat 3" >
+                    <img src="assets/mainecoon%20mountains.svg" class="image is-200x200" alt="Mountain Cat 3" >
                 </div>
             </div>
 
@@ -39,6 +40,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/DesertIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -58,9 +60,9 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="Desert Cat 1" >
-                    <img src="" class="image.is-200x200" alt="Desert Cat 2" >
-                    <img src="" class="image.is-200x200" alt="Desert Cat 3" >
+                    <img src="" class="image is-200x200" alt="Desert Cat 1" >
+                    <img src="" class="image is-200x200" alt="Desert Cat 2" >
+                    <img src="" class="image is-200x200" alt="Desert Cat 3" >
                 </div>
             </div>
 
@@ -72,6 +74,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/ArcticIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -90,7 +93,7 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="Arctic Cat 1" >
+                    <img src="" class="image is-200x200" alt="Arctic Cat 1" >
                 </div>
             </div>
 
@@ -101,6 +104,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/SeasideIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -119,7 +123,7 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="Seaside Cat 1" >
+                    <img src="" class="image is-200x200" alt="Seaside Cat 1" >
                 </div>
             </div>
 
@@ -130,6 +134,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/CityIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -149,9 +154,9 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="City Cat 1" >
-                    <img src="" class="image.is-200x200" alt="City Cat 2" >
-                    <img src="" class="image.is-200x200" alt="City Cat 3" >
+                    <img src="" class="image is-200x200" alt="City Cat 1" >
+                    <img src="" class="image is-200x200" alt="City Cat 2" >
+                    <img src="" class="image is-200x200" alt="City Cat 3" >
                 </div>
             </div>
 
@@ -162,6 +167,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/PlainsIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -179,7 +185,7 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="Plains Cat 1" >
+                    <img src="" class="image is-200x200" alt="Plains Cat 1" >
                 </div>
             </div>
         </div>
@@ -188,6 +194,7 @@
 
             <div class="columns">
                 <div class="column is-4">
+                <img src="public/assets/JunglesIcon.svg" class="image is-260x260">
                 </div>
 
                 <div class="column is-8">
@@ -205,7 +212,7 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image.is-200x200" alt="Plains Cat 1" >
+                    <img src="" class="image is-200x200" alt="Plains Cat 1" >
                 </div>
             </div>
         </div>
