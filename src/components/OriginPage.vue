@@ -201,6 +201,37 @@
                     <h3>Jungles of Papua Mew Guinea</h3>
                     <h4>A Kitty that live in the high trees of the jungles.</h4>
                     <p>Origin Identity: Poisonous kitties that damage and weaken their enemies when bitten.  They can really put a hitch to your leap, so best be getting them before they get you.</p>
+                    <p>Strong against Mountain  /  Weak against City </p>
+                </div>
+            </div>
+
+            <div class="columns">
+                <div class="column is-4">
+                    <ul>Jungle Cat Types:</ul>
+                    <ul>Savannah</ul>
+                    <ul>Selkirk</ul>
+                    <ul>Norwegianforest</ul>
+                </div>
+
+                <div class="column is-8">
+                    <img src="" class="image is-200x200" alt="Jungle Cat 1" >
+                    <img src="" class="image is-200x200" alt="Jungle Cat 2" >
+                    <img src="" class="image is-200x200" alt="Jungle Cat 3" >
+                </div>
+            </div>
+        </div>
+ 
+ <div class="origin-info" id="space">
+
+            <div class="columns">
+                <div class="column is-4">
+                <img src="public/assets/SpaceIcon.svg" class="image is-260x260">
+                </div>
+
+                <div class="column is-8">
+                    <h3>Jupitpurr</h3>
+                    <h4>A Kitty that comes from outerspace.</h4>
+                    <p>Origin Identity: Foreign cats born in space. These wild felines get blown away easily but are used to the scorching temperatures of the sun.</p>
                     <p>Strong against Desert  /  Weak against  </p>
                 </div>
             </div>
@@ -212,11 +243,10 @@
                 </div>
 
                 <div class="column is-8">
-                    <img src="" class="image is-200x200" alt="Plains Cat 1" >
+                    <img src="" class="image is-200x200" alt="Space Cat 1" >
                 </div>
             </div>
         </div>
- 
  
     </div>
 </template>
