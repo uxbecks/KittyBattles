@@ -41,17 +41,15 @@
             
            <h5 class="column is-12 media-name">(aka kitty.fyi)</h5>
            
-           <p class="column is-12">CryptoKitty most like me: </p>
+           <p class="column is-12 100bio">Jim dabbled in CryptoKitties in early December but didn't dive into the game until February. Since then, he has accumulated over 1200 kitties and is questioning life in general as a result. He spent the previous 10 years bringing cloud computing to the mainstream and is ready to do the same thing for the next 10 years with blockchain technology.</p>
            
-           <p class="column is-12 100bio"></p>
+           <p class="column is-12">What's your favorite CryptoKitten? <a href="https://www.cryptokitties.co/kitty/694412">Jody Lawrance - Gargoyle #1</a></p>
            
-           <p class="column is-12">What's your favorite CryptoKitten? </p>
+           <p class="column is-12">What's your favorite CryptoKitties trait? Daemonwings </p>
            
-           <p class="column is-12">What's your favorite CryptoKitties trait? </p>
+           <p class="column is-12">What's your favorite KittyBattles origin?  Space</p>
            
-           <p class="column is-12">What's your favorite KittyBattles origin?  </p>
-           
-           <p class="column is-12">What's your favorite KittyBattles skill? </p>
+           <p class="column is-12">What's your favorite KittyBattles skill?  Sonic Purr</p>
 
         </div>
         
@@ -96,15 +94,15 @@
            
            <p class="column is-12">CryptoKitty most like me: </p>
            
-           <p class="column is-12 100bio"></p>
+           <p class="column is-12 100bio">Always the curious cat, Bx quickly fell in love with CryptoKitties and the universe it’s creating.  She’s made stickers for the Valentine’s and Meme releases for KittyHats and is now flexing her UX/UI skills to help get KittyBattles off and running.  If she’s not heads down on her computer you’ll find her playing with yarn (spinning, knitting, crochet), with her hubby and two sweetest kitties, or her mandolin.</p>
            
            <p class="column is-12">What's your favorite CryptoKitten? </p>
            
-           <p class="column is-12">What's your favorite CryptoKitties trait? </p>
+           <p class="column is-12">What's your favorite CryptoKitties trait? Ganado</p>
            
-           <p class="column is-12">What's your favorite KittyBattles origin?  </p>
+           <p class="column is-12">What's your favorite KittyBattles origin?  The Mountains</p>
            
-           <p class="column is-12">What's your favorite KittyBattles skill? </p>
+           <p class="column is-12">What's your favorite KittyBattles skill? Thunderstruck; like Sandstorm above there's a hidden easter egg with this skill.</p>
 
         </div>
         
