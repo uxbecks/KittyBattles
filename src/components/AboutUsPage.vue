@@ -13,18 +13,15 @@
             
            <h5 class="column is-12 media-name">(aka geggleto)</h5>
            
-           <p class="column is-12 100bio">A little about me: Strong cats that are known for their individual power, but lack </br>
-           the ability to work well with others. Always remember that one is a lonely number.</br>
-           There should be room for another sentence of text here to make the bio long enough.</br>
-           There should be room for another sentence of text here to make the bio long enough.</p>
+           <p class="column is-12 100bio">Bonjour. My name is Glenn. Being my friend means many days filled with rearranging price tags at the supermarket. I've been thinking of dying my fur orange, what do you think? I’m not a photographer, but I can picture me and you together.</p>
            
-           <p class="column is-12">What's your favorite CryptoKitten?</p>
+           <p class="column is-12">What's your favorite CryptoKitten? <a href="https://www.cryptokitties.co/kitty/1"> Gensis</a></p>
            
-           <p class="column is-12">What's your favorite CryptoKitties trait?</p>
+           <p class="column is-12">What's your favorite CryptoKitties trait? Spock</p>
            
-           <p class="column is-12">What's your favorite KittyBattles origin?</p>
+           <p class="column is-12">What's your favorite KittyBattles origin? Space!</p>
            
-           <p class="column is-12">What's your favorite KittyBattles skill?</p>
+           <p class="column is-12">What's your favorite KittyBattles skill? Bile Barrier</p>
 
         </div>
         
