@@ -6,7 +6,7 @@
            <h3 class="column is-12 job-title">Project Lead / Backend Developer</h3>
              
            <div class="column is-12">
-              <img src="public/assets/" class="profile-image is-200x200">
+              <img src="public/assets/GEicon.svg" class="profile-image is-260x260">
            </div>
            
            <h4 class="column is-12 real-name">Glenn Eggleton</h4>
@@ -31,7 +31,7 @@
            <h3 class="column is-12 job-title">Operations Manager</h3>
              
            <div class="column is-12">
-              <img src="public/assets/" class="profile-image is-200x200">
+              <img src="public/assets/KFicon.svg" class="profile-image is-260x260">
            </div>
            
            <h4 class="column is-12 real-name">Jim McNelis</h4>
@@ -56,7 +56,7 @@
            <h3 class="column is-12 job-title">Lead Game Designer</h3>
              
            <div class="column is-12">
-              <img src="public/assets/" class="profile-image is-200x200">
+              <img src="public/assets/WKicon.svg" class="profile-image is-260x260">
            </div>
            
            <h4 class="column is-12 real-name">Steven Miyauchi</h4>
@@ -82,7 +82,7 @@
            <h3 class="column is-12 job-title">Lead Designer</h3>
              
            <div class="column is-12">
-              <img src="public/assets/" class="profile-image is-200x200">
+              <img src="public/assets/BKicon.svg" class="profile-image is-260x260">
            </div>
            
            <h4 class="column is-12 real-name">Bx Dawes</h4>
@@ -108,7 +108,7 @@
            <h3 class="column is-12 job-title">Front-End Developement</h3>
              
            <div class="column is-12">
-              <img src="public/assets/" class="profile-image is-200x200">
+              <img src="public/assets/RMicon.svg" class="profile-image is-260x260">
            </div>
            
            <h4 class="column is-12 real-name">Candi Johnson</h4>
