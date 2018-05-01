@@ -13,9 +13,15 @@
         </div>
         <div class="navbar-menu" v-bind:class="{ 'is-active' : mobile_menu }">
             <div class="navbar-start">
+<<<<<<< HEAD
                 <router-link to="/" class="navbar-item title is-4">HOME</router-link>
                 <router-link to="/roster" class="navbar-item title is-4">TEAM ROSTER</router-link>
                 <router-link to="/dojo" class="navbar-item title is-4">TRAINING DOJO</router-link>
+=======
+                <router-link to="/" class="navbar-item">Home</router-link>
+                <router-link v-if="global.profile" to="/roster" class="navbar-item">Roster</router-link>
+                <router-link v-if="global.profile" to="/dojo" class="navbar-item">Dojo</router-link>
+>>>>>>> a95b8842397583fe35cf7f1f6dcf321ce3461564
 
 
                 <div class="navbar-item has-dropdown is-hoverable">
@@ -46,11 +52,14 @@
 </template>
 
 <script>
+    import store from './../store';
+
     export default {
         name: 'navigation',
 
         data() {
             return {
+                global : store.state,
                 mobile_menu: false
             };
         }

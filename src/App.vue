@@ -9,14 +9,22 @@
 <script>
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+import store from './store';
 
 export default {
   name: 'app',
   components: {
       'navigation': Navigation,
-      'app-footer': Footer
+      'app-footer': Footer    
+      },
+   
+    data() {
+      return store;
+    }
   }
-}
+
+
+
 
 </script>
 

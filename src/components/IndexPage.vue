@@ -1,14 +1,17 @@
 <template>
-    <div class="container">
-        <h1 class="title">Home</h1>
-    </div>
+    <login></login>
 </template>
 
 <script>
+    import Login from './LoginComponent.vue';
+
     export default {
         name : 'index-page',
         data() {
             return {};
+        },
+        components : {
+            Login
         }
     }
 </script>
