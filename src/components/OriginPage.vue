@@ -1,7 +1,7 @@
 <template>
-    <div class="container">
-        <h1>KittyBattles  Origin  lore</h1>
-        <h2>Learn  more  about  where  your  kittens  come   from</h2>
+    <div class="container isDark">
+        <h1 class="title is-1">KittyBattles  Origin  Lore</h1>
+        <h2 class="title is-2">Learn  more  about  where  your  kittens  come   from</h2>
 
         <div class="origin-info" id="mountain">
 

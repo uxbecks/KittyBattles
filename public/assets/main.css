@@ -272,7 +272,7 @@ pre {
 
 body {
   color: #4a4a4a;
-  font-size: 1rem;
+  font-size: 1.875rem;
   font-weight: 400;
   line-height: 1.5; }
 
@@ -1819,11 +1819,26 @@ a.box:active {
 
 .container {
   margin: 0 auto;
-  position: relative; }
+  position: relative;
+  min-height: 63rem;
+  background: url("wood_pattern.png");
+  background-repeat: repeat;
+ }
+ .container.isDark {
+  margin: 0 auto;
+  position: relative;
+  background: url("stardust.png");
+  background-repeat: repeat;
+  color: #fff;
+ }
+ h1.isDark, h2.isDark, h3.isDark, h4.isDark, h5.isDark{
+   color: #fff;
+ }
+ 
   @media screen and (min-width: 1088px) {
     .container {
-      max-width: 960px;
-      width: 960px; }
+      max-width: 1024px;
+      width: 1024px; }
       .container.is-fluid {
         margin-left: 64px;
         margin-right: 64px;
@@ -4457,7 +4472,8 @@ a.navbar-item,
   flex-grow: 0;
   flex-shrink: 0; }
   .navbar-item img {
-    max-height: 1.75rem; }
+    height: auto;
+    min-width: 10rem;; }
   .navbar-item.has-dropdown {
     padding: 0; }
   .navbar-item.is-expanded {
@@ -4549,7 +4565,7 @@ a.navbar-item,
     align-items: stretch;
     display: flex; }
   .navbar {
-    min-height: 3.25rem; }
+    min-height: 6.25rem; }
     .navbar.is-spaced {
       padding: 1rem 2rem; }
       .navbar.is-spaced .navbar-start,
@@ -6416,5 +6432,112 @@ label.panel-block {
       padding: 18rem 1.5rem; } }
 
 .footer {
-  background-color: #fafafa;
-  padding: 3rem 1.5rem 6rem; }
+  background-color: #57413E;
+  height: 5rem;
+  min-height: 2rem;
+  color: #fff;
+}
+.footer, .navbar{
+margin: 0 auto;
+position: relative; }
+
+.footer.is-fixed-bottom-desktop{
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 30; 
+}
+  @media screen and (min-width: 1088px) {
+    .footer {
+      max-width: 1024px;
+      width: 1024px; }
+      .footer.is-fluid {
+        margin-left: 64px;
+        margin-right: 64px;
+        max-width: none;
+        width: auto; } }
+  @media screen and (max-width: 1279px) {
+    .footer.is-widescreen {
+      max-width: 1152px;
+      width: auto; } }
+  @media screen and (max-width: 1471px) {
+    .footer.is-fullhd {
+      max-width: 1344px;
+      width: auto; } }
+  @media screen and (min-width: 1280px) {
+    .footer {
+      max-width: 1152px;
+      width: 1152px; } }
+  @media screen and (min-width: 1472px) {
+    .footer {
+      max-width: 1344px;
+      width: 1344px; } }
+
+      @media screen and (min-width: 1088px) {
+        .navbar {
+          max-width: 1024px;
+          width: 1024px; }
+          .navbar.is-fluid {
+            margin-left: 64px;
+            margin-right: 64px;
+            max-width: none;
+            width: auto; } }
+      @media screen and (max-width: 1279px) {
+        .navbar.is-widescreen {
+          max-width: 1152px;
+          width: auto; } }
+      @media screen and (max-width: 1471px) {
+        .navbar.is-fullhd {
+          max-width: 1344px;
+          width: auto; } }
+      @media screen and (min-width: 1280px) {
+        .navbar {
+          max-width: 1152px;
+          width: 1152px; } }
+      @media screen and (min-width: 1472px) {
+        .navbar {
+          max-width: 1344px;
+          width: 1344px; } }
+
+.is-260x260{
+  height: 260px;
+  width: 260px;
+}
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  padding:5rem;
+  -moz-text-align-last: center;
+  text-align-last: center;
+}
+
+.personal-info{
+  padding-top: 6rem;
+}
+
+.job-title {
+  color: #FFF;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.125; }
+  .job-title strong {
+    color: inherit;
+    font-weight: inherit; }
+    .job-title + .highlight {
+    margin-top: -0.75rem; }
+    .job-title:not(.is-spaced) + .subtitle {
+    margin-top: -1.25rem; }
+    .job-title.is-1 {
+    font-size: 3rem; }
+    .job-title.is-2 {
+    font-size: 2.5rem; }
+    .job-title.is-3 {
+    font-size: 2rem; }
+    .job-title.is-4 {
+    font-size: 1.5rem; }
+  .job-title.is-5 {
+    font-size: 1.25rem; }
+    .job-title.is-6 {
+    font-size: 1rem; }
+    .job-title.is-7 {
+    font-size: 0.75rem; }

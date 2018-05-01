@@ -11,6 +11,7 @@ import RosterPage from './components/RosterPage';
 import WhitePaperPage from './components/WhitePaperPage';
 import OriginPage from './components/OriginPage';
 
+
 Vue.use(VueRouter);
 
 const routes = [
@@ -23,6 +24,8 @@ const routes = [
     { path: '/roster', component: RosterPage },
     { path: '/white-paper', component: WhitePaperPage },
     { path: '/origin-page', component: OriginPage },
+
+
 ];
 
 const router = new VueRouter({
