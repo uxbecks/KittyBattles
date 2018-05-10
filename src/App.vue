@@ -2,7 +2,7 @@
   <div id="app">
     <navigation></navigation>
     <router-view></router-view>
-    <app-footer></app-footer>
+    <kb-footer></kb-footer>
   </div>
 </template>
 
@@ -15,14 +15,14 @@ export default {
   name: 'app',
   components: {
       'navigation': Navigation,
-      'app-footer': Footer    
+      'kb-footer': Footer    
       },
    
     data() {
       return store;
+
     }
   }
-
 
 
 

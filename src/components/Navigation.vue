@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar is-brown" role="navigation" aria-label="main navigation">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <a class="navbar-item">
                 <img src="assets/KBLogo.svg" alt="KittyBattles Logo" id="KB_Logo">
@@ -11,40 +11,32 @@
                 <span aria-hidden="true"></span>
             </a>
         </div>
+
         <div class="navbar-menu" v-bind:class="{ 'is-active' : mobile_menu }">
             <div class="navbar-start">
-<<<<<<< HEAD
                 <router-link to="/" class="navbar-item title is-4">HOME</router-link>
-                <router-link to="/roster" class="navbar-item title is-4">TEAM ROSTER</router-link>
-                <router-link to="/dojo" class="navbar-item title is-4">TRAINING DOJO</router-link>
-=======
-                <router-link to="/" class="navbar-item">Home</router-link>
-                <router-link v-if="global.profile" to="/roster" class="navbar-item">Roster</router-link>
-                <router-link v-if="global.profile" to="/dojo" class="navbar-item">Dojo</router-link>
->>>>>>> a95b8842397583fe35cf7f1f6dcf321ce3461564
+                <router-link v-if="global.profile" to="/roster" class="navbar-item title is-4">TEAM ROSTER</router-link>
+                <router-link v-if="global.profile" to="/dojo" class="navbar-item title is-4">TRAINING DOJO</router-link>
 
 
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link title is-4">
                         ABOUT
                     </a>
-                    <div class="navbar-dropdown">
+                    <div class="navbar-dropdown is-boxed">
                         <router-link to="/how-to-play" class="navbar-item title is-4">
                             HOW TO PLAY
                         </router-link>
-                    <div class="navbar-dropdown">
                         <router-link to="/origin-page" class="navbar-item title is-4">
                             KITTY ORIGIN LORE
                         </router-link>
-                    <div class="navbar-dropdown">
                         <router-link to="/faq" class="navbar-item title is-4">
                             KITTYBATTLES FAQS
                         </router-link>
-                    <div class="navbar-dropdown">
                         <router-link to="/about-us" class="navbar-item title is-4">
                             THE KB TEAM
                         </router-link>
-                    </div></div></div></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -59,7 +51,7 @@
 
         data() {
             return {
-                global : store.state,
+            global : store.state,
                 mobile_menu: false
             };
         }

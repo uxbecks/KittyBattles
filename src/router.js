@@ -12,6 +12,7 @@ import WhitePaperPage from './components/WhitePaperPage';
 import OriginPage from './components/OriginPage';
 
 
+
 Vue.use(VueRouter);
 
 const routes = [
