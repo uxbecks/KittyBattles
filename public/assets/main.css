@@ -12874,6 +12874,7 @@ a.box:active {
     margin: 0 auto;
     position: relative;
     min-height: 30rem;
+    padding-bottom: 3rem;
     background: url("stardust.png");
     background-repeat: repeat;
     color: #fff;

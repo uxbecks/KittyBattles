@@ -3,17 +3,17 @@
         <section class="section">
             <div class="columns howToMain">
                 <div class="column is-3">
-                    <img src="assets/OpeningBK1.svg" class="is-200x200" alt="">
+                    <img src="assets/OpeningBK1.svg" alt="">
                 </div>
                 <div class="column is-6">
                     <h1 class="title is-1" id="margin2"><strong>KITTYBATTLES</strong></h1>
                     <h2 class="title is-2">WHERE THE KITTENS COME TO PLAY</h2>
                     <div class="columns">
                     <div class="column is-6">
-                    <router-link v-if="global.profile" to="/how-to-play" class="startButton title is-3 has-text-centered">Learn How to Play</router-link>
+                    <router-link v-if="global.profile" to="/how-to-play" class="startButton title is-4 has-text-centered">Learn How to Play</router-link>
                      </div>
                      <div class="column is-6">
-                    <router-link v-if="global.profile" to="/roster" class="startButton title is-3 has-text-centered">Build Your Teams</router-link>
+                    <router-link v-if="global.profile" to="/roster" class="startButton title is-4 has-text-centered">Build Your Teams</router-link>
                     </div>
                     </div>
 
@@ -29,7 +29,7 @@
                     </article>
                 </div>
                 <div class="column is-3">
-                    <img src="assets/OpeningBK2.svg" class="is-200x200" alt="">
+                    <img src="assets/OpeningBK2.svg" alt="">
                 </div>
             </div>
 
