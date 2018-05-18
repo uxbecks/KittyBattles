@@ -412,7 +412,6 @@ a strong {
 
 a:hover {
     color: currentColor;
-    font-weight: 600;
 }
 
 code {
@@ -10468,8 +10467,7 @@ a strong {
 }
 
 a:hover {
-    color: #A24000;
-    font-weight: 600;
+    color: #A2433F;
 }
 
 code {
@@ -12878,6 +12876,10 @@ a.box:active {
     background: url("stardust.png");
     background-repeat: repeat;
     color: #fff;
+}
+.isDark a {
+    color: #FDFBD9;
+    cursor: pointer;
 }
 
 h1.isDark,
@@ -15556,7 +15558,9 @@ a.tag:hover {
 }
 
 .breadcrumb a:hover {
-    color: #363636;
+        color: #A2433F;
+        text-decoration: dotted;
+        text-decoration-color: #A2433F;
 }
 
 .breadcrumb li {
@@ -15987,7 +15991,7 @@ print {
 
 .menu-list a:hover {
     background-color: whitesmoke;
-    color: #a24000;
+    color: #A2433F;
     font-weight: 600;
 }
 
@@ -20351,6 +20355,10 @@ print {
     position: relative;
     vertical-align: top;
     cursor: pointer;
+}
+
+a.startButton {
+    color: #fff !important;
 }
 
 .startButton:hover {

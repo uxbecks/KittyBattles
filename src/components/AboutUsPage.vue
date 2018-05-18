@@ -10,10 +10,10 @@
         </div>
 
         <div class="column is-12">
-            <h4 class="title is-2  isDark real-name">GLENN EGGLETON</h4>
+            <h4 class="title is-2  isDark">GLENN EGGLETON</h4>
         </div>
         <div class="column is-12">
-            <h5 class="title is-3  isDark media-name">(AKA GEGGLETO)</h5>
+            <h5 class="title is-3  isDark">(AKA GEGGLETO)</h5>
         </div>
 
         <p class="column is-8 is-offset-2">Bonjour. My name is Glenn. Being my friend means many days filled with rearranging price tags at the supermarket.
@@ -40,10 +40,10 @@
             <img src="assets/KFicon.svg" class="profile-image is-260x260">
         </div>
         <div class="column is-12">
-            <h4 class="title is-2 isDark real-name">JIM MCNELIS</h4>
+            <h4 class="title is-2 isDark">JIM MCNELIS</h4>
         </div>
         <div class="column is-12">
-            <h5 class="title is-3  isDark media-name">(AKA KITTY.FYI)</h5>
+            <h5 class="title is-3  isDark">(AKA KITTY.FYI)</h5>
         </div>
         <p class="column is-8 is-offset-2">Jim dabbled in CryptoKitties in early December but didn't dive into the game until February. Since then, he has accumulated
             over 1200 kitties and is questioning life in general as a result. He spent the previous 10 years bringing cloud
@@ -68,10 +68,10 @@
                 <img src="assets/WKicon.svg" class="profile-image is-260x260">
             </div>
             <div class="column is-12">
-                <h4 class="title is-2  isDark real-name">STEVEN MIYAUCHI</h4>
+                <h4 class="title is-2  isDark">STEVEN MIYAUCHI</h4>
             </div>
             <div class="column is-12">
-                <h5 class="title is-3  isDark media-name">(AKA WITTYKITTY)</h5>
+                <h5 class="title is-3  isDark">(AKA WITTYKITTY)</h5>
             </div>
 
             <p class="column is-8 is-offset-2"> I am 25 years of age, full Japanese and fourth generation in America. I attended the University of Hawaii for
@@ -108,10 +108,10 @@
                 <img src="assets/BKicon.svg" class="profile-image is-260x260">
             </div>
             <div class="column is-12">
-                <h4 class="title is-2  isDark real-name">BX DAWES</h4>
+                <h4 class="title is-2  isDark">BX DAWES</h4>
             </div>
             <div class="column is-12">
-                <h5 class="title is-3  isDark media-name">(AKA BXKAT)</h5>
+                <h5 class="title is-3  isDark">(AKA BXKAT)</h5>
             </div>
 
             <p class="column is-8 is-offset-2">Always the curious cat, Bx quickly fell in love with CryptoKitties and the universe it’s creating. She’s made
@@ -135,10 +135,10 @@
                 <img src="assets/RMicon.svg" class="profile-image is-260x260">
             </div>
             <div class="column is-12">
-                <h4 class="title is-2  isDark real-name">CANDI JOHNSON</h4>
+                <h4 class="title is-2  isDark">CANDI JOHNSON</h4>
             </div>
             <div class="column is-12">
-                <h5 class="title is-3  isDark media-name">(AKA RUDEM00SE)</h5>
+                <h5 class="title is-3  isDark">(AKA RUDEM00SE)</h5>
             </div>
 
             <p class="column is-8 is-offset-2"> Candi stopped 'adulting' a few years ago in favor of pursing another degree full-time -  a double major in Computer Science
